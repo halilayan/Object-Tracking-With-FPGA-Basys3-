@@ -1,10 +1,14 @@
 # 🎯 VGA Object Tracker — FPGA Visual Tracking System
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-VHDL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Standard-VHDL--2008-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Resolution-640x480%20%4060Hz-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clock-25.175%20MHz-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Target-FPGA-red?style=for-the-badge" />
+</p>
 <p align="center">
   A fully synthesizable VHDL system that generates a VGA video signal, animates a white target square across the screen, and tracks it in real time with a green bounding box overlay — complete with colored decoy objects and LFSR-based pseudo-random motion.
 </p>
-
 ---
 
 ## 📺 Demo Overview
