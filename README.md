@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/3c1042aa-dc50-4fa5-b448-46a1bb0b148e
+
 # 🎯 VGA Object Tracker — FPGA Visual Tracking System
 <p align="center">
   <img src="https://img.shields.io/badge/Language-VHDL-blue?style=for-the-badge" />
