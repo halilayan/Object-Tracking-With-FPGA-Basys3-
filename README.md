@@ -347,7 +347,7 @@ Each module can be verified in isolation:
 
 ---
 
-## 🙏 References
+##  References
 
 - VGA timing specification: [VESA_timing_parameters](https://glenwing.github.io/docs/VESA-GTF-1.1.pdf)
 - Fibonacci LFSR theory: [Xilinx XAPP052](https://www.xilinx.com/support/documentation/application_notes/xapp052.pdf)
